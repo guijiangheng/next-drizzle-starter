@@ -4,5 +4,11 @@
   },
   "editor.quickSuggestions": {
     "strings": "on"
+  },
+  "files.trimFinalNewlines": true,
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "always",
+    "source.addMissingImports.ts": "always"
   }
 }
