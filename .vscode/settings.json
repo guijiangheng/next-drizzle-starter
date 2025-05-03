@@ -10,5 +10,8 @@
   "editor.codeActionsOnSave": {
     "source.fixAll": "always",
     "source.addMissingImports.ts": "always"
-  }
+  },
+  "cSpell.words": [
+    "serviceworker"
+  ]
 }
